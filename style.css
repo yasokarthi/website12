@@ -1,0 +1,85 @@
+.overall>nav{
+    display:flex;
+    margin: 0;
+    padding: 0;
+    font-family:'arial'sans-serif;
+}
+.aboutpage>h1{
+    align-items: center;
+    flex-wrap:wrap;
+}
+.aboutpage>h3{
+     gap:100px;
+}
+.overall{
+    diplay:flex;
+}
+.image2{
+     margin-left: 1000px;
+     border-radius: 400px;
+}
+.home{
+    display:flex;
+	flex-wrap:wrap;
+	justify-content:center;
+    gap:25px;
+}
+	
+.box1{
+        background-color:blueviolet;
+        padding:40px;
+        width:400px;
+        height:150px;
+        justify-content:center;
+        gap:25px;
+}
+.box2{
+        background-color:blueviolet;
+        padding:40px;
+        width:400px;
+        height:150px;
+        justify-content:center;
+        gap:25px;
+}
+.box3{
+        background-color:blueviolet;
+        padding:40px;
+        width:400px;
+        justify-content:center;
+        gap:25px;
+        height:150px;
+}
+.box4{
+        background-color:blueviolet;
+        padding:40px;
+        width:400px;
+        height:150px;
+        justify-content:center;
+         gap:25px;
+}
+.boxes1{
+    display:flex;
+}
+.boxes2{
+    display:flex;
+}
+.image1>h2{
+     color:red;
+}
+.image1>p{
+    color:red;
+}
+.services{
+    display:flex;
+}
+.details>p{
+    color:green;
+}
+.container{
+    display:flex;
+    margin-left:500px;
+    border:2px solid black;
+}
+.container2{
+    align-items: center;
+}
